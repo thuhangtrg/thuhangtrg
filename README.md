@@ -5,7 +5,6 @@
 🛠️ **Currently working with:**
 - Python (Pandas, NumPy, Matplotlib)
 - SQL, MongoDB, Neo4j, Power BI
-- Git & GitHub
 
 🌱 I'm currently learning about:
 - Machine Learning  

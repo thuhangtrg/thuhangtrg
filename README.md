@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ivy (Thu Hằng)
+# 👋 Hi there, I'm Thu Hằng
 
 🎓 I'm a third-year at [Van Lang University](https://www.vlu.edu.vn/), majoring in Data.  
 
